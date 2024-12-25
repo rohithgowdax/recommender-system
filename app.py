@@ -3,7 +3,7 @@ import pickle
 import requests
 
 # Load data
-movies = pickle.load(open('movies.pk1', 'rb'))  # Ensure this DataFrame contains 'title' and 'movie_id'
+movies = pickle.load(open('movies.pkl', 'rb'))  # Ensure this DataFrame contains 'title' and 'movie_id'
 similarity = pickle.load(open('similarity.pkl', 'rb'))
 
 def fetch_poster(movie_id):
