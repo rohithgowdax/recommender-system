@@ -90,8 +90,8 @@ EDA was performed to:
 ## 🙋‍♂️ Author
 Rohith Gowda R
 
-📧 Contact: [rohithgowdax@gmail.com]
-🔗 Linkdin: [https://www.linkedin.com/in/rohithgowdax/]
+📧 [Email]([rohithgowdax@gmail.com)       
+🔗 [Linkdin](https://www.linkedin.com/in/rohithgowdax/)
 ___
 ## 📄 License
 This project is licensed under the **Apache 2.0 Licens**e see the [LICENSE](LICENSE) file for detail.
