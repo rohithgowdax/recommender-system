@@ -94,7 +94,7 @@ Rohith Gowda R
 🔗 Linkdin: [https://www.linkedin.com/in/rohithgowdax/]
 ___
 ## 📄 License
-This project is licensed under the Apache 2.0 License.
+This project is licensed under the **Apache 2.0 Licens**e see the [LICENSE](LICENSE) file for detail.
 
 # 🌟 Show Your Support
 If you like this project, please ⭐ the repo and share it!
