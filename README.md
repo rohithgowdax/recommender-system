@@ -93,9 +93,7 @@ Rohith Gowda R
 📧 [Email]([rohithgowdax@gmail.com)       
 🔗 [Linkdin](https://www.linkedin.com/in/rohithgowdax/)
 ___
-## 📄 License
-This project is licensed under the **Apache 2.0 Licens**e see the [LICENSE](LICENSE) file for detail.
-
-# 🌟 Show Your Support
-If you like this project, please ⭐ the repo and share it!
-Feel free to contribute or raise issues.
+> **Important Notice:**  
+> This project is licensed under the [MIT License](LICENSE).  
+> According to the license terms, any redistribution (including compiled or modified versions), you **must** retain the original copyright
+> notice and the full license text. Copyright © 2025 Rohith Gowda R. All rights reserved.
