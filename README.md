@@ -1,11 +1,11 @@
-# 🎬 Movie Recommender System
+# Movie Recommender System
 
 A content-based movie recommendation system built using **cosine similarity**. It suggests movies similar to the selected one and fetches their **posters** using the **TMDb API**. The app is hosted using **Streamlit**.
 
 ![Screenshot](assets/screenshot.png) 
 ---
 
-## 📌 Features
+## Features
 
 - Recommends 5 similar movies using **cosine similarity**
 - Fetches **movie posters** using **TMDb API**
@@ -15,7 +15,7 @@ A content-based movie recommendation system built using **cosine similarity**. I
 
 ---
 
-## 🧠 How It Works
+##  How It Works
 
 1. **Data Preprocessing & EDA**:
    - Handled missing values
@@ -35,14 +35,14 @@ A content-based movie recommendation system built using **cosine similarity**. I
 
 ---
 
-## 🚀 Demo
+##  Demo
 
-🔗 [Click to View Live App](https://recommender-system-x.streamlit.app/)  
+ [Click to View Live App](https://recommender-system-x.streamlit.app/)  
 <!-- Replace with your actual Streamlit deployment link -->
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 ---
 ```
 ├── app.py # Streamlit app with Core recommendation logic
@@ -70,7 +70,7 @@ streamlit run app.py
 
 ```
 ---
-## 🔧 Tech Stack
+##  Tech Stack
 
 - Python
 - Pandas, NumPy, scikit-learn
@@ -78,7 +78,7 @@ streamlit run app.py
 - TMDb API
 - Matplotlib / Seaborn (for EDA)
 ---
-## 📈 Exploratory Data Analysis
+##  Exploratory Data Analysis
 
 EDA was performed to:
   - Understand data distribution
@@ -87,11 +87,11 @@ EDA was performed to:
   - Improve feature engineering for better recommendations
   - Find the full EDA in eda.ipynb.
 
-## 🙋‍♂️ Author
+##  Author
 Rohith Gowda R
 
-📧 [Email]([rohithgowdax@gmail.com)       
-🔗 [Linkdin](https://www.linkedin.com/in/rohithgowdax/)
+[Email]([rohithgowdax@gmail.com)       
+[Linkdin](https://www.linkedin.com/in/rohithgowdax/)
 ___
 > **Important Notice:**  
 > This project is licensed under the [Apache License](LICENSE).  
